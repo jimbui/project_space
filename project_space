@@ -1,15 +1,152 @@
 // project_space notes.
 
+// general notes.
+
+// questions.
+
+// to-do list.
+
+	classify rooms (S , M , L , XL , SP) for ship design.
+
 // ship design.
 
-	ship classification.
-		civilian.
+	ship classification. // two types of ships , civilian ships and military ships.
+	
+		civilian. // trade and production oriented , light combat.
+		
+			// standard ships.
+		
+			escape pods.
+				- smallest object , can have multiple from same ship.
+			passenger / transport ships.
+				- meant to transport people around.
+			construction / work ships.
+				- mining ships , building ships , research ships , science , surveryors , etc.
+			transport freighters.
+				- small / medium ships meant for transporting goods.
+			cargo ships.
+				- large ships for transporting goods.
+				
+			// misc.
 			
-		military
-
+			hydroponics-ship.
+				- grows food.
+				- acts as a store in space?
+			space ads.
+				- like stellaris , giant billboards in space.
+				
+		military. // combat oriented , heavy combat.
+		
+			// light and escort ships.
+		
+			fighters / bombers / drones.
+				- smallest combat ships.
+				- does not have inside view.
+				- launced from carrier ships only.
+				- 1 to 2 people.
+				- drones controlled by central AI mainframe.
+			transport ships / assault ships.
+				- transport personnel.
+				- can be combat oriented , like for boarding enemy ships.
+			corvettes.
+				- smallest ship-of-the-line.
+				- light patrol duty.
+				- escort for larger ships.
+			frigates.
+				- slightly larger than corvettes.
+				- light / medium patrol duty.
+				- escort for larger ships.
+			
+			// start of captial ships.
+		
+			carriers.
+				- only ship that carry fighters.
+				- fighters are long ranged.
+				- ship is lightly armored.
+				- few weapons.
+				- fragile.
+			destroyers.
+				- ship meant for close quarter combat.
+				- heavily armed and armored.
+			cruisers.
+				- ship meant for long / medium ranged combat.
+				- has more utility than a destroyer , but not as armored and less weapons.
+			battleship.
+				- larger version of a destroyer.
+			battlecruiser.
+				- larger version of a cruiser.
+			dreadnought.
+				- largest warships.  not many of these exist.
+				- super OP.
+				- one per empire?
+				
+	ship modules. // a conceptual idea for now.
+		
+			all ships have standarized room sizes.  the rooms can be switched out to other rooms of the same size.  there 
+		are some modules that a critical to a ship and cannot be replaced or moved.
+		
+		// critical modules.  
+		
+		power source / core.
+			- provides power for the ship.
+		engine room.
+			- provides movement for ship.
+		bridge / control room / cockpit.
+			- provides control of the physical ship.
+		life support.
+			- maintains air , oxygen , and temperature.
+			
+		// utility modules.  these rooms provide a feature or purpose.
+		
+		combat information centre (CIC) / operations room.
+			- tactical / command centre of the ship.  
+			- manages combat logistics and information , as opposed to the bridge that only controls the ship.
+			- additional radar and sensors.
+			- provides combat bonus.
+		shield-generator.
+			- provides shields for the ship.
+		special-weapons.
+			- giant laser.
+			- nuke launcher.
+			- EMP.
+			- flamethrower.
+		hanger.
+			- provides a place for fighters to dock.
+			- repairs fighters.
+			- only on carrier ships.
+		cargo bays.
+			- allows for storage of goods.
+		brig.
+			- allows for prisoners to be stored.
+		gun deck.
+			- location of the guns.
+			- crews can operation gun.
+			- AI can operate gun if available.
+			- players can manually operate the gun.
+		AI mainframe.
+			- contains the core of the AI.
+			- allows for usage of the AI (point-defense , operation of guns , etc).
+		armory.
+			- contains small guns for crew usage.
+		munitions room.
+			- contains torpedoes , missiles , ammo , and other weapon related materials. 
+		science / research lab.
+			- allows for special anomolies to be detected / investigated.
+		
+		// misc rooms.  just to look pretty.  maybe have small bonus?
+		
+		recreation room.
+		trash room.
+		crew quarters.
+		galley.
+		meeting rooms.
+		gym.
+		showers.
+		airlocks / blast doors.
+		
 // station design.
 
-// sounds.
+// sounds. // henry's got this.
 
 	sound effects.
 	music.
@@ -32,6 +169,7 @@
 // map design.
 
 	single map versus node multimap.
+	map generation.
 
 // economy design.
 
@@ -43,9 +181,12 @@
 
 // AI design.
 	
-	ship AI.
+	ship movement AI.
+	gun AI.
 
 // menu and settings design.
+
+	setting to change sounds to Henry-noises.
 
 // art notes.
 
