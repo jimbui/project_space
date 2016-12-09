@@ -60,6 +60,7 @@
 			// start of captial ships.
 		
 			carriers.
+				- has many sizes (small carriers for patrol to super-carriers for fleet operations).
 				- only ship that carry fighters.
 				- fighters are long ranged.
 				- ship is lightly armored.
