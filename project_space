@@ -104,7 +104,9 @@
 			- tactical / command centre of the ship.  
 			- manages combat logistics and information , as opposed to the bridge that only controls the ship.
 			- additional radar and sensors.
+			- galaxy chart
 			- provides combat bonus.
+			-upgradable to radar jamming.
 		shield-generator.
 			- provides shields for the ship.
 		special-weapons.
@@ -134,6 +136,8 @@
 			- contains torpedoes , missiles , ammo , and other weapon related materials. 
 		science / research lab.
 			- allows for special anomolies to be detected / investigated.
+		medical room
+			- for troops to be healed.
 		
 		// misc rooms.  just to look pretty.  maybe have small bonus?
 		
@@ -145,6 +149,8 @@
 		gym.
 		showers.
 		airlocks / blast doors.
+		library
+		pool
 		
 // station design.
 
