@@ -153,7 +153,21 @@
 		pool
 		
 // station design.
-
+	Civi stations 
+		- colony stations
+		- trading stations - dockable
+		- shipyards
+		- research stations 
+		- hotel
+		- communications
+	Military
+		- Outposts - small stations for monitors.
+		- Basic military stations, S-L
+		- Main command
+		- military shipyard - must be part of faction.
+		- supplying depot
+		
+		
 // sounds. // henry's got this.
 
 	sound effects.
@@ -168,6 +182,20 @@
 
 // weapons design.
 
+	kinetic - good against shields
+		- basic cannon, shoot faster when upgrade.
+		- long range, heavy hitting, sniper.
+	laser  	- good against armor
+		- basic cannon, shoot faster when upgrade.
+		- long range, heavy hitting, sniper.
+		- beam laser
+	missle 
+		torpedos - long range, slow faced, easier to dodge.
+		regular missles - closer range, hit smaller ships.
+
+	shields 
+		- hardshell,
+
 // mechanics.
 
 	combat.
@@ -180,6 +208,7 @@
 	map generation.
 
 // economy design.
+	-
 
 // technology tree and research design.
 
