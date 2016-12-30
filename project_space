@@ -195,6 +195,8 @@
 
 	shields 
 		- hardshell,
+	hardpoints
+		- points on big ships to target.
 // targeting
 	FTL like targeting.
 		- all guns have 1,2,3...4 buttons.
